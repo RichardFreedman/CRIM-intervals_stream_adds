@@ -4,3 +4,4 @@ requests
 pandas
 pandas-io
 crim_intervals
+List
