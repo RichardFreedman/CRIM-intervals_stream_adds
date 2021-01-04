@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run CRIM_Intervals_additions.py
+web: sh setup.sh && streamlit run CRIM_Int_additions.py
